@@ -1,2 +1,30 @@
 # GenAI-Resume-Analyzer
-AI-Powered Resume Analyzer is a web application that helps users improve their resumes by extracting content from uploaded PDFs using Google Document AI and generating personalized suggestions via Vertex AI. It features a Next.js frontend with Tailwind CSS and a Laravel backend integrated with Google Cloud services.
+# GenAI Resume Analyzer
+
+AI-powered Resume Analyzer that extracts content from PDF resumes and generates personalized improvement suggestions using Google Document AI and Vertex AI.
+
+## Features
+
+- Resume PDF Upload
+- Automated Resume Parsing
+- AI-Powered Resume Feedback
+- Skill Gap Analysis
+- Personalized Improvement Suggestions
+- Modern Responsive UI
+
+## Tech Stack
+
+Frontend:
+- Next.js
+- Tailwind CSS
+
+Backend:
+- Laravel
+
+AI Services:
+- Google Document AI
+- Vertex AI
+
+## Author
+
+Nidhi Meena
