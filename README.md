@@ -25,6 +25,3 @@ AI Services:
 - Google Document AI
 - Vertex AI
 
-## Author
-
-Nidhi Meena
